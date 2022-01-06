@@ -1,0 +1,41 @@
+---
+---
+
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <a href="{{ site.baseurl }}/">writing system index</a>
+            <a href="{{ site.baseurl }}/Cuneiform">Cuneiform</a>
+            <a href="{{ site.baseurl }}/Egyptian hieroglyphs">Egyptian hieroglyphs</a>
+            <a href="{{ site.baseurl }}/Chinese characters">Chinese characters</a>
+            <a href="{{ site.baseurl }}/Mayan script">Mayan script</a>
+        </nav>
+    </div>
+    <div class="container">
+        {% assign system = site.data.system | find: "name", page.system %}
+
+
+        <img src = "{{ page.image-url2 }}" width = 500>
+        <p>Oracle bone script</p>
+        <img src = "{{ page.image-url3 }}" width = 500>
+        <p>bronze inscriptions</p>
+        <img src = "{{ page.image-url4 }}" width = 500>
+        <p>seal script</p>
+        <img src = "{{ page.image-url5 }}" width = 500>
+        <p>clerical script</p>
+        <img src = "{{ page.image-url6 }}" width = 500>
+        <p>regular script</p>
+        <img src = "{{ page.image-url7 }}" width = 500>
+        <p>cursive script</p>
+        <img src = "{{ page.image-url8 }}" width = 500>
+        <p>Semi-cursive script</p>
+        
+        <p>{{ page.title }} <a href = "{{ system.homepage }}">{{ page.system }}</a></p>
+        <p>Chinese characters are one of the oldest systems of writing in the world. They are widely used in East Asia now, as well as historically used by the Sinosphere. Chinese characters are the only logographic writing systems that are still widely used and highly developed in the world. With the exception of very few Chinese characters, each Chinese character corresponds to one syllable. The evolution of Chinese characters has gone through the stages of oracle bone script, bronze inscriptions, seal script, clerical script, regular script, cursive script and semi-cursive script. At current, regular script is widely used in writing and application.</p>
+
+    </div>
+</body>

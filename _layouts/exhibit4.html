@@ -1,0 +1,31 @@
+---
+---
+
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <a href="{{ site.baseurl }}/">writing system index</a>
+            <a href="{{ site.baseurl }}/Cuneiform">Cuneiform</a>
+            <a href="{{ site.baseurl }}/Egyptian hieroglyphs">Egyptian hieroglyphs</a>
+            <a href="{{ site.baseurl }}/Chinese characters">Chinese characters</a>
+            <a href="{{ site.baseurl }}/Mayan script">Mayan script</a>
+        </nav>
+    </div>
+    <div class="container">
+        {% assign system = site.data.system | find: "name", page.system %}
+
+        <img src = "{{ page.image-url }}" width = 500>
+        <img src = "{{ page.image-url2 }}" width = 500>
+        <img src = "{{ page.image-url3 }}" width = 500>
+        <img src = "{{ page.image-url4 }}" width = 500>
+        <img src = "{{ page.image-url5 }}" width = 500>
+        <img src = "{{ page.image-url6 }}" width = 500>
+        <p>{{ page.title }} <a href = "{{ system.homepage }}">{{ page.system }}</a></p>
+        <p>Mayan script, also known as Maya glyphs, is a kind of hieroglyph created by the Maya of Mesoamerica. The earliest identifiable Maya script found which can be traced back to the 3rd century BC in San Bartolo, Guatemala. At that time Maya script was merely popular in a small area centered​​ on Tikal. It was not until the middle of the 5th century that the Maya script followed the mercantile routes to spread throughout the whole Maya region.</p>
+
+    </div>
+</body>
