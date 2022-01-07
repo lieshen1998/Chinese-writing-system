@@ -1,21 +1,32 @@
----
----
-
+<!DOCTYPE html>
+<html>
 <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
+<meta charset="utf-8">
+<title>{{page.title }}</title>
+<link rel="stylesheet" href="{{ site.baseurl }}/style.css">
 </head>
 <body>
-    <div class="container">
+
+    <div id="container" >
+
+        <div id="header" style="background-color:#5a5751e3; width: 1350px;">
+        <h1 style="margin-bottom:0; float: left; ">Four Ancient Writing System</h1></div>
+        
+        <div id="menu" style="background-color:#c2a607e3; height: 30px; width: 1350px;">
         <nav>
-            <a href="{{ site.baseurl }}/">writing system index</a>
-            <a href="{{ site.baseurl }}/Cuneiform">Cuneiform</a>
-            <a href="{{ site.baseurl }}/Egyptian hieroglyphs">Egyptian hieroglyphs</a>
-            <a href="{{ site.baseurl }}/Chinese characters">Chinese characters</a>
-            <a href="{{ site.baseurl }}/Mayan script">Mayan script</a>
-        </nav>
-    </div>
-    <div class="container"> 
+                    <a href="{{ site.baseurl }}/Cuneiform">Cuneiform</a>
+                    <a href="{{ site.baseurl }}/Egyptian hieroglyphs">Egyptian hieroglyphs</a>
+                    <a href="{{ site.baseurl }}/Chinese characters">Chinese characters</a>
+                    <a href="{{ site.baseurl }}/Mayan script">Mayan script</a>
+                    <a href="{{ site.baseurl }}/search">Search</a>
+                </nav>
+        </div>
+        <div id="content" >
         {{ content }}
-    </div>
+        <br>
+        </div>
+
+
+ 
 </body>
+</html>

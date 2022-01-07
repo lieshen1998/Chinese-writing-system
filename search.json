@@ -1,0 +1,13 @@
+---
+---
+[
+  {% for exhibit in site.exhibits %}
+    {
+
+      "title"        : "{{ exhibit.title }}",
+      "Direction"    : "{{ exhibit.Direction }}",
+      "Languages"    : "{{ exhibit.Languages}}"
+
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
