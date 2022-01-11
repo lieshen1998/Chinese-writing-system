@@ -25,8 +25,12 @@ email: 545929734@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
  A searchable edition of the four oldest writing systems, including the origin and development of the writing system. All documents are encoded for structured search and analysis.
 baseurl: "" # the subpath of your site, e.g. /blog
+<<<<<<< HEAD
 
 url: "https://ancient-writing-system.com" # the base hostname & protocol for your site, e.g. http://example.com
+=======
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+>>>>>>> 43386e83185a8762cc285c063a212ee1443d66af
 github_username:  Huibinn
                   Lieshen1998
                   Naping0
@@ -35,9 +39,12 @@ github_username:  Huibinn
 theme: minima
 plugins:
   - jekyll-feed
+<<<<<<< HEAD
 collections:
   exhibits:
     output: true
+=======
+>>>>>>> 43386e83185a8762cc285c063a212ee1443d66af
 
 # Exclude from processing.
 # The following items will not be processed, by default.

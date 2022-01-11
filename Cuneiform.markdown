@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 layout: post
 title: Cuneiform
 Script type: Logographic and syllabary
@@ -195,3 +196,11 @@ Babylonian tablets of the time of Hammurabi (circa 1750 BC).
 
 
 
+=======
+layout: index
+title: Cuneiform
+permalink: /Cuneiform/
+---
+
+Page for the Cuneiform
+>>>>>>> 43386e83185a8762cc285c063a212ee1443d66af

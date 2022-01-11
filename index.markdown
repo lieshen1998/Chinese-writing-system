@@ -2,6 +2,7 @@
 title: Writing system
 layout: index
 ---
+<<<<<<< HEAD
 
 {% for exhibit in site.exhibits %}
 
@@ -18,3 +19,5 @@ layout: index
 
 
 {% endfor %}
+=======
+>>>>>>> 43386e83185a8762cc285c063a212ee1443d66af
