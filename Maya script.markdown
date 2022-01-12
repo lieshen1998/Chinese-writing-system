@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Maya script
-permalink: /Mayan script/
+permalink: /Maya script/
 ---
 
 <p style="text-align:justify;">The Mayans are the only nation in the Americas who have left written records, and thus the script is the only Mesoamerican writing system that has been significantly deciphered. At current, the sound of around 80% of Maya script can be read and about 60% of its meaning can be understood with varying degrees of certainty. The Maya script continued to be used throughout Mesoamerica until the Spanish conquest of the Maya in the 16th and 17th centuries. The Maya script was canlled  'hieroglyphics' or hieroglyphs by early European explorers of the 18th and 19th centuries, who found its general appearance reminiscent of Egyptian hieroglyphs, although the two systems are unrelated. The modern Mayan languages is written almost entirely in the Latin alphabet rather than the Maya script. </p>
