@@ -4,6 +4,9 @@ title: About
 permalink: /About/
 ---
 
+A searchable edition of the four oldest writing systems, including the origin and development of the writing system. All documents are encoded for structured search and analysis.
+
+
 References:
 
 1. Chinese Characters <br>
