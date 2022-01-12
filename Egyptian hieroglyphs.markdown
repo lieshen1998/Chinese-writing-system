@@ -13,7 +13,7 @@ permalink: /Egyptian hieroglyphs/
 
 ![avatar](https://up.66152.com/allimg/2125/25_1705.jpg)
 
-<h1> 1.History and evolution <h1>
+<h1> 1.History and evolution </h1>
 
 <h2> 1.1 Original: </h2> 
 
@@ -38,7 +38,8 @@ permalink: /Egyptian hieroglyphs/
  
 <h2> 1.4 Late survival: </h2>
 
-<p style="text-align:justify;">Hieroglyphs continued to be used under Persian rule (intermittently in the 6th and 5th centuries BC), after Alexander the Great conquered Egypt, and during the subsequent Ptolemaic and Roman periods. It seems that Greek and Roman writers' comments about hieroglyphs were misleading, at least in part in response to the changing political situation. Some believe that hieroglyphs may have served to distinguish the "real Egyptians" from some foreign conquerors. Another reason may have been the refusal to deal with foreign cultures in their own way, a common Greek and Roman attitude toward Egyptian culture. Understanding that hieroglyphics were sacred writing, Greco-Roman writers imagined this complex but rational system as an allegory, even a magical system, conveying secret, mystical knowledge. </p>
+<p style="text-align:justify;">Hieroglyphs continued to be used under Persian rule (intermittently in the 6th and 5th centuries BC), after Alexander the Great conquered Egypt, and during the subsequent Ptolemaic and Roman periods. It seems that Greek and Roman writers' comments about hieroglyphs were misleading, at least in part in response to the changing political situation. Some believe that hieroglyphs may have served to distinguish the "real Egyptians" from some foreign conquerors. Another reason may have been the refusal to deal with foreign cultures in their own way, a common Greek and Roman attitude toward Egyptian culture. Understanding that hieroglyphics were sacred writing, Greco-Roman writers imagined this complex but rational system as an allegory, even a magical system, conveying secret, mystical knowledge. 
+</p>
  
 <p style="text-align:justify;">By the 4th century, few Egyptians could read hieroglyphs, and the myth of allegorical hieroglyphs was in the ascendance. After the Roman emperor Theodosius I closed all non-Christian temples in 391, the monumental use of hieroglyphs ceased; The last known inscriptions are from Philae, graffiti known as Esmet-Akhom. </p>
  
@@ -59,7 +60,8 @@ permalink: /Egyptian hieroglyphs/
 
 <p style="text-align:justify;">Visually, hieroglyphs are more or less figurative: they represent real or abstract elements, sometimes stylized and simplified, but usually fully recognizable in form. Depending on the context, the same symbol can be interpreted in different ways: as a phonetic alphabet (phonetic reading), as a shorthand, or as an ideogram (semagram; "Decisive") (semantic reading) Determinate is not pronounced as a phonetic component, but rather facilitates understanding by distinguishing words from their homophones. </p>
  
- ![avatar](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2021%2F1118%2F5033cb01j00r2qxr6001kd000hs00a0p.jpg&thumbnail=650x2147483647&quality=80&type=jpg)
+
+![avatar](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2021%2F1118%2F5033cb01j00r2qxr6001kd000hs00a0p.jpg&thumbnail=650x2147483647&quality=80&type=jpg)
 
 <h1> 4.Spelling: </h1>
 
