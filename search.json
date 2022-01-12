@@ -4,7 +4,8 @@
   {% for exhibit in site.exhibits %}
     {
 
-      "title"        : "{{ exhibit.title }}",
+      "title"        : "{{ exhibit.title | escape}}",
+      "url"      : "{{ site.baseurl }}{{ exhibit.url }}",
       "Direction"    : "{{ exhibit.Direction }}",
       "Languages"    : "{{ exhibit.Languages}}"
 
