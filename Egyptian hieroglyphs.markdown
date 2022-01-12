@@ -74,5 +74,4 @@ permalink: /Egyptian hieroglyphs/
 <p style="text-align:justify;"> However, many of these apparent spelling errors constitute an issue of chronology. Spelling and standards varied over time, so the writing of a word during the Old Kingdom might be considerably different during the New Kingdom. Furthermore, the Egyptians were perfectly content to include older orthography ("historical spelling") alongside newer practices, as though it were acceptable in English to use archaic spellings in modern texts. Most often, ancient "spelling errors" are simply misinterpretations of context. Today, hieroglyphics use numerous cataloguing systems (notably the Manuel de Codage and Gardiner's Sign List) to clarify the presence of determinatives, ideograms, and other ambiguous signs in transliteration. </p>
 
 
-Reference: [Egyptian hieroglyphs](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs)
 

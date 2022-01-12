@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mayan script
+title: Maya script
 permalink: /Mayan script/
 ---
 
@@ -43,11 +43,5 @@ Yucatec Maya writing in the Dresden Codex, c. 11–12th century, Chichen Itza
 <p style="text-align:justify;">Maya hieroglyphs were carved on stone monuments and walls of temples and burial chambers, or carved into jade and shells, or written (or depicted) on pottery, the inner bark of banyan trees and tanned deerskin with a hairbrush similar to the Chinese style brush. These contents include the Mayan religious myths, prayers, history, astronomy and calendars. Most of the texts found by archeologists are from inscriptions that mainly record the deeds of the kings and the history of their dynasty. Their purpose is not to give precepts or to sing the praises of the royal family, but to chronicle the events. Therefore, dates are very important, and they take up most of the space (up to 80%) of the monument's inscriptions. </p>
 
 ![avatar](https://i3.jueshifan.com/7b077d83/790e7e83/380229d509afa716c438.png)
-
-
-Reference：
-[Mayan script 1](https://en.wikipedia.org/wiki/Maya_script)
-[Mayan script 2](https://www.mayaarchaeologist.co.uk/school-resources/maya-world/maya-writing-system/)
-[Mayan script 3](https://baike.baidu.com/item/玛雅文字/8741359)
 
 

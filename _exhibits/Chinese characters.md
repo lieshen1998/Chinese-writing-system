@@ -1,5 +1,5 @@
 ---
-title: Chinese characters
+title: Chinese Characters
 Script-type: Logographic
 Time-period: Bronze Age China to present
 Direction: Left-to-right (modern), Top-to-bottom, columns right to left (traditional)
@@ -13,5 +13,4 @@ image-url6: https://upload.wikimedia.org/wikipedia/commons/4/41/Sheng_jiao_xu.jp
 image-url7: https://upload.wikimedia.org/wikipedia/commons/3/3e/Mi_Fu-On_Calligraphy.jpg
 image-url8: https://upload.wikimedia.org/wikipedia/commons/3/3e/Mi_Fu-On_Calligraphy.jpg
 layout: exhibit1
-tags: chinese, 
 ---
