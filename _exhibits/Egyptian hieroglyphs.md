@@ -1,5 +1,5 @@
 ---
-title: Egyptian hieroglyphs
+title: Egyptian Hieroglyphs
 Script-type: Logography usable as an abjad
 Time-period: c. 3200 BC — AD 400
 Direction: right-to-left-script

@@ -1,5 +1,5 @@
 ---
-title: Maya script
+title: Maya Script
 Script-type: Logosyllabic
 Time-period: 3rd century BCE to 16th century CE
 Direction: mixed
