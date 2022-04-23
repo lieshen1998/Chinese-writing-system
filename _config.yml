@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  A searchable edition of the chinese characters, including the origin and development of the writing system. All documents are encoded for structured search and analysis.
 baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "http://ancient-writing-system.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://chinese-characters-1.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Huibinn
                   Lieshen1998
                   Naping0
