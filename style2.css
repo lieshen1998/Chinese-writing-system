@@ -1,5 +1,5 @@
 *{
-    margin:0; padding:0;
+    margin:10; padding:10;
 }
 
 body{
@@ -18,7 +18,6 @@ div.container {
 
 div.content {
     text-align: justify;
-    padding top:5
     font-size: 23px;
     line-height: 40px;
     font-family: 'Times New Roman', Times, serif;
