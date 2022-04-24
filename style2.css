@@ -1,16 +1,11 @@
 *{
-    margin:0; padding:5;
+    margin:0; padding:0;
 }
 
 body{
     background-color: rgba(222, 184, 135, 0.404);
 }
-body{
-    margin left:10
-    margin right:10
 	    
-}
-
 div.container {
     margin-bottom:7%;
     margin-right: 0%;
@@ -87,9 +82,7 @@ a:hover {
     
     div.content {
         text-align: left;
-	    padding right:10
-		    padding left:10
-        font-size: 23px;
+        font-size: 25px;
         line-height: 40px;
         font-family: 'Times New Roman', Times, serif;
     }
