@@ -82,6 +82,8 @@ a:hover {
     
     div.content {
         text-align: left;
+	    padding right:10
+		    padding left:10
         font-size: 23px;
         line-height: 40px;
         font-family: 'Times New Roman', Times, serif;
