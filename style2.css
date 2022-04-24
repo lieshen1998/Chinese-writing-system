@@ -4,11 +4,13 @@
 
 body{
     background-color: rgba(222, 184, 135, 0.404);
+    margin left:5
+    margin right:5
 }
 
 div.container {
     margin-bottom:7%;
-    margin-right: 10%;
+    margin-right: -6%;
     margin-top: 7%;
     line-height:200%;
     text-align:right;
