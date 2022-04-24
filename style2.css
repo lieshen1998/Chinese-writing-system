@@ -4,8 +4,6 @@
 
 body{
     background-color: rgba(222, 184, 135, 0.404);
-    margin left:10
-    margin right:10
 }
 
 div.container {
@@ -20,6 +18,7 @@ div.container {
 
 div.content {
     text-align: justify;
+    padding top:5
     font-size: 23px;
     line-height: 40px;
     font-family: 'Times New Roman', Times, serif;
